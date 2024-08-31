@@ -1,0 +1,1 @@
+A simple password manager to save your password (currently on local Storage) . you will be able to save, delete and edit passwords of a given site an keep it safe in your local storage
